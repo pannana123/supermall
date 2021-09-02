@@ -1,1 +1,7 @@
 I just try!
+
+token
+
+
+
+vscode://vscode.github-authentication/did-authenticate?windowid=6&code=40c22ff2ddd81ff27e6a&state=9beff0c0-1629-4c0d-8b4c-d9ae0ea7ce37
